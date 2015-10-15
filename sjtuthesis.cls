@@ -73,6 +73,7 @@
 \RequirePackage{calc}
 \RequirePackage{algorithm, algorithmic}
 
+
 %==========
 % Segment 2. Define general-purpose LaTeX commands.
 %==========
